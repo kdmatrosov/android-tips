@@ -13,3 +13,4 @@
 
 * [can only be called from within the same library group (groupId=com.android.support)](https://stackoverflow.com/questions/41150995/appcompatactivity-oncreate-can-only-be-called-from-within-the-same-library-group)
 * [vectorDrawables.useSupportLibrary = true](https://medium.com/@imrankst1221/vector-drawable-is-the-best-practices-for-android-development-with-kotlin-9e8cf54372d5)
+* [Android 8: Cleartext HTTP traffic not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
