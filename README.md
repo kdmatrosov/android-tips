@@ -5,6 +5,7 @@
 * Стрелка "Назад". ([ответ](https://stackoverflow.com/questions/26651602/display-back-arrow-on-toolbar))
 * "Назад" программно. ([ответ 1](https://stackoverflow.com/questions/10863572/programmatically-go-back-to-the-previous-fragment-in-the-backstack), [ответ 2](https://stackoverflow.com/questions/34803872/android-back-button-navigate-to-specific-fragment))
 * AdapterDelegate [сахар над RecycleView]. ([ответ 1](https://github.com/sockeqwe/AdapterDelegates), [ответ 2](https://android.jlelse.eu/android-dtt-19-adapter-delegates-6003349f2120))
+* Dagger 2. Часть первая. Основы, создание графа зависимостей, Scopes. ([ответ](https://habr.com/post/279125/))
 
 
 
