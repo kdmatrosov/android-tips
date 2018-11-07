@@ -7,6 +7,7 @@
 * AdapterDelegate [сахар над RecycleView]. ([ответ 1](https://github.com/sockeqwe/AdapterDelegates), [ответ 2](https://android.jlelse.eu/android-dtt-19-adapter-delegates-6003349f2120))
 * Dagger 2. Часть первая. Основы, создание графа зависимостей, Scopes. ([ответ](https://habr.com/post/279125/))
 * Как изменить имя основного пакета. [ответ](https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+* Как правильно обновлять данные в списке?. [ответ](https://startandroid.ru/ru/blog/504-primer-ispolzovanija-android-diffutil.html)
 
 
 
