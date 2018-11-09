@@ -19,3 +19,4 @@
 * [Android 8: Cleartext HTTP traffic not permitted](https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted)
 * [Retrofit2 error java.io.EOFException: End of input at line 1 column 1](https://stackoverflow.com/questions/35744795/retrofit2-error-java-io-eofexception-end-of-input-at-line-1-column-1)
 * [Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $](https://stackoverflow.com/questions/39918814/use-jsonreader-setlenienttrue-to-accept-malformed-json-at-line-1-column-1-path)
+* Не вызывается метод onCreateOptionsMenu. ([ответ](https://stackoverflow.com/questions/13267030/oncreateoptionsmenu-is-never-called))
