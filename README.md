@@ -9,7 +9,7 @@
 * Как изменить имя основного пакета. ([ответ](https://stackoverflow.com/questions/16804093/android-studio-rename-package))
 * Как правильно обновлять данные в списке? ([ответ](https://startandroid.ru/ru/blog/504-primer-ispolzovanija-android-diffutil.html))
 * Как совместить Retrofit и Coroutines? ([ответ](https://medium.com/exploring-android/android-networking-with-coroutines-and-retrofit-a2f20dd40a83))
-
+* Добавить меню в заголовок. ([ответ](https://devcolibri.com/unit/%D1%83%D1%80%D0%BE%D0%BA-11-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-toolbar-%D0%B8-menu-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-userinfoactivity/))
 
 
 ## Ошибки
