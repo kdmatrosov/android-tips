@@ -11,6 +11,7 @@
 * Как совместить Retrofit и Coroutines? ([ответ](https://medium.com/exploring-android/android-networking-with-coroutines-and-retrofit-a2f20dd40a83))
 * Добавить меню в заголовок. ([ответ](https://devcolibri.com/unit/%D1%83%D1%80%D0%BE%D0%BA-11-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-toolbar-%D0%B8-menu-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-userinfoactivity/))
 * Изменить цвет текста в Toobar. ([ответ](https://stackoverflow.com/questions/26852108/how-do-you-set-the-title-color-for-the-new-toolbar))
+* Как сделать нотификацию на меню? ([ответ 1](https://savannahscodecorner.wordpress.com/2018/04/25/bottomnavigationview-upgraded-adding-notification-badges/), [ответ 2](https://stackoverflow.com/questions/42682855/display-badge-on-top-of-bottom-navigation-bars-icon))
 
 
 ## Ошибки
