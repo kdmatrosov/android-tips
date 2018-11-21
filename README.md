@@ -13,6 +13,7 @@
 * Изменить цвет текста в Toobar. ([ответ](https://stackoverflow.com/questions/26852108/how-do-you-set-the-title-color-for-the-new-toolbar))
 * Как сделать нотификацию на меню? ([ответ 1](https://savannahscodecorner.wordpress.com/2018/04/25/bottomnavigationview-upgraded-adding-notification-badges/), [ответ 2](https://stackoverflow.com/questions/42682855/display-badge-on-top-of-bottom-navigation-bars-icon))
 * RecycleView. Разная ширина колонок для разных строчек. ([ответ](https://stackoverflow.com/questions/31112291/recyclerview-layoutmanager-different-span-counts-on-different-rows))
+* Dagger и background service. ([ответ 1](https://github.com/googlesamples/android-architecture-components/issues/253), [ответ 2](https://stackoverflow.com/questions/40585099/injecting-dependencies-into-background-service-in-dagger2))
 
 
 ## Ошибки
@@ -23,3 +24,4 @@
 * [Retrofit2 error java.io.EOFException: End of input at line 1 column 1](https://stackoverflow.com/questions/35744795/retrofit2-error-java-io-eofexception-end-of-input-at-line-1-column-1)
 * [Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $](https://stackoverflow.com/questions/39918814/use-jsonreader-setlenienttrue-to-accept-malformed-json-at-line-1-column-1-path)
 * Не вызывается метод onCreateOptionsMenu. ([ответ](https://stackoverflow.com/questions/13267030/oncreateoptionsmenu-is-never-called))
+* [Kotlin Error: Dagger does not support injection into private fields](https://stackoverflow.com/questions/47187657/kotlin-error-dagger-does-not-support-injection-into-private-fields)
