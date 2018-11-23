@@ -14,6 +14,7 @@
 * Как сделать нотификацию на меню? ([ответ 1](https://savannahscodecorner.wordpress.com/2018/04/25/bottomnavigationview-upgraded-adding-notification-badges/), [ответ 2](https://stackoverflow.com/questions/42682855/display-badge-on-top-of-bottom-navigation-bars-icon))
 * RecycleView. Разная ширина колонок для разных строчек. ([ответ](https://stackoverflow.com/questions/31112291/recyclerview-layoutmanager-different-span-counts-on-different-rows))
 * Dagger и background service. ([ответ 1](https://github.com/googlesamples/android-architecture-components/issues/253), [ответ 2](https://stackoverflow.com/questions/40585099/injecting-dependencies-into-background-service-in-dagger2))
+* Шифровать в JS и Java. ([ответ](https://stackoverflow.com/questions/48638959/unable-to-convert-a-webcrypto-key-pair-to-java-rsa-keys), [статья с генерацией ключей](https://8gwifi.org/docs/window-crypto-rsaoaep.jsp))
 
 
 ## Ошибки
